@@ -1,0 +1,8 @@
+define ay = Character("Arya", color="e238ec")
+define ca = Character("Callie", color="5e5a80")
+define ce = Character("Clyde", color="bca7e8")
+define dv = Character("Debbie", color="c45aec")
+define jr = Character("Janis", color="9966cc")
+define jc = Character("Julian", color="4b0082")
+define to = Character("Todd", color="c8a2c8")
+define vd = Character("Valerie", color="bfa9e0")

@@ -1,0 +1,18 @@
+init python:
+
+    aronnames = ["Aron", "Aron Cameron"]
+    avrilnames = ["Avril", "Avril Cosette"]
+    chelseanames = ["Chelsea", "Chelsea Yore", "Chell"]
+    colsonnames = ["Colson", "Colson Vee"]
+    emilynames = ["Emily", "Emily Stamey"]
+    elizabethnames = ["Elizabeth", "Elizabeth Spring", "Liz"]
+    ethelnames = ["Ethel", "Ethel Morthyne"]
+    gwennames = ["Gwen", "Gwendolyn", "Gwendolyn Foster", "Gwen Foster", "Cupcake"]
+    heathernames = ["Heather", "Heather Sweeney"]
+    katenames = ["Kate", "Kate Lynn"]
+    lanenames = ["Lane", "Lane Quincy", "Brocolli Head"]
+    lindseynames = ["Lindsey", "Lindsey Pawns", "Lin"]
+    lotusnames = ["Lotus", "Lotus Heilsie"]
+    minanames = ["Mina", "Mina Jackish"]
+    rydelnames = ["Rydel", "Rydel Mudlink"]
+    wadenames = ["Wade", "Fletcher", "Wade Fletcher"]

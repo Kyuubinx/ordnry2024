@@ -1,0 +1,8 @@
+define unkm = Character("Unknown Boy", color="cccccc")
+define unkf = Character("Unknown Girl", color="cccccc")
+define unktt = Character ("????", color="cccccc")
+define misv = Character("Mysterious Voice", color="cccccc")
+define sm = Character("School Monitor", color="ffffff")
+define tc = Character("Teacher", color="ffffff")
+define andm = Character("Andy's  Mom", color="cccccc")
+define both = Character("Both", color="cccccc")

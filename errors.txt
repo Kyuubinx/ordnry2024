@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/chapters/labeled_ch04.rpy", line 1090: expected statement.
+    talkevent3 = True
+               ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Mon Sep 18 00:07:00 2023
